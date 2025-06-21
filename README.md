@@ -26,10 +26,6 @@ A stylish, responsive calculator web app built with HTML, CSS, and JavaScript. F
 - `Backspace`: Delete last digit
 - `Escape`: Clear all
 
-## Screenshots
-
-![Calculator Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
 ## Technologies Used
 
 - HTML5
@@ -43,7 +39,5 @@ You can easily modify the color scheme or button layout by editing the CSS in `c
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
 
 Made with ❤️ for learning and
